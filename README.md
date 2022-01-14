@@ -4,7 +4,7 @@ When using YouTube and your mouse hovers over a video, the stupid volume goes up
 If you donate, I will look into making a Chrome Plugin for this.
 
 
-[Click Here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WXQKYYKPHWXHS)
+[Click Here To Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WXQKYYKPHWXHS)
 
 
 Step 1: 
