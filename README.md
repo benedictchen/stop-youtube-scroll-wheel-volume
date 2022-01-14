@@ -1,5 +1,10 @@
-# stop-youtube-scroll-wheel-volume
-Stop YouTube's idiotic scroll wheel mouse behavior
+# Stop YouTube's idiotic scroll wheel volume control
+
+When using YouTube and your mouse hovers over a video, the stupid volume goes up or down even if you're just scrolling down the page to see comments.
+If you donate, I will look into making a Chrome Plugin for this.
+
+
+[Click Here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WXQKYYKPHWXHS)
 
 
 Step 1: 
@@ -10,3 +15,6 @@ Create new bookmark
 
  - When going to YouTube, you can just click the bookmark.
  - Voila!
+
+
+# If this was helpful to you, please buy me a beer on PayPal: [Click Here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WXQKYYKPHWXHS)
